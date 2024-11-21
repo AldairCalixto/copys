@@ -35,6 +35,7 @@ a:hover { color: #cc8e35; }
 .color-gold { color: #cc8e35 !important; }
 .color-dat{color: rgb(41, 49, 245);}
 .color-pin{color: rgba(0, 0, 0, 0.733)}
+.color-dat-yellow{color: rgb(205, 213, 0);}
 /*----------------------------------------*/
 /*----- Borders -----*/
 /*----------------------------------------*/
@@ -134,7 +135,7 @@ opacity: 1;
 /*----------------------------------------*/
 /* menu for dark background */
 .dtr-menu-light .nav-link { color: #fff; }
-.dtr-menu-light .active { color: #cc8e35; }
+.dtr-menu-light .active { color: rgb(205, 213, 0); }
 .dtr-menu-light .nav-link:hover { color: #cc8e35; }
 .dtr-menu-light .active:hover { color: #cc8e35; }
 /* menu for light background */
@@ -158,7 +159,7 @@ opacity: 1;
 /*----- Elements -----*/
 /*----------------------------------------*/
 /*====== preloader =====*/
-.dtr-preloader { background: #cc8e35; }
+.dtr-preloader { background: rgb(41, 49, 245) }
 .dtr-loader { color: #fff; }
 /*===== testimonial =====*/
 .dtr-slider-counter { color: #cc8e35; }
