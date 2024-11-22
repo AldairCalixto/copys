@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
+
+.descubrelo{
+    font-size: 50px;
+    color: rgb(191, 193, 226);
+}
+
+.descubrelo:hover{
+    color: rgb(205, 213, 0);
+}
+
 /* Estilos generales */
 .benefit {
     text-align: center;
